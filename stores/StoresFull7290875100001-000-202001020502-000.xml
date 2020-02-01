@@ -1,0 +1,213 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Store Date="02/01/20" Time="05:02:02">
+  <Branches>
+    <Branch>
+      <ChainID>7290875100001</ChainID>
+      <SubChainID>001</SubChainID>
+      <StoreID>001</StoreID>
+      <BikoretNo />
+      <StoreType>1</StoreType>
+      <ChainName />
+      <SubChainName />
+      <StoreName>1 לוד</StoreName>
+      <Address> </Address>
+      <City />
+      <ZIPCode />
+      <LastUpdateDate>01/01/0001 00:00:00</LastUpdateDate>
+      <Latitude />
+      <Longitude />
+    </Branch>
+    <Branch>
+      <ChainID>7290875100001</ChainID>
+      <SubChainID>001</SubChainID>
+      <StoreID>002</StoreID>
+      <BikoretNo />
+      <StoreType>1</StoreType>
+      <ChainName />
+      <SubChainName />
+      <StoreName>2 יהוד</StoreName>
+      <Address> </Address>
+      <City />
+      <ZIPCode />
+      <LastUpdateDate>01/01/0001 00:00:00</LastUpdateDate>
+      <Latitude />
+      <Longitude />
+    </Branch>
+    <Branch>
+      <ChainID>7290875100001</ChainID>
+      <SubChainID>001</SubChainID>
+      <StoreID>005</StoreID>
+      <BikoretNo />
+      <StoreType>1</StoreType>
+      <ChainName />
+      <SubChainName />
+      <StoreName>5 נס ציונה</StoreName>
+      <Address> </Address>
+      <City />
+      <ZIPCode />
+      <LastUpdateDate>01/01/0001 00:00:00</LastUpdateDate>
+      <Latitude />
+      <Longitude />
+    </Branch>
+    <Branch>
+      <ChainID>7290875100001</ChainID>
+      <SubChainID>001</SubChainID>
+      <StoreID>006</StoreID>
+      <BikoretNo />
+      <StoreType>1</StoreType>
+      <ChainName />
+      <SubChainName />
+      <StoreName>6 שלבים תל אביב</StoreName>
+      <Address> </Address>
+      <City />
+      <ZIPCode />
+      <LastUpdateDate>01/01/0001 00:00:00</LastUpdateDate>
+      <Latitude />
+      <Longitude />
+    </Branch>
+    <Branch>
+      <ChainID>7290875100001</ChainID>
+      <SubChainID>001</SubChainID>
+      <StoreID>007</StoreID>
+      <BikoretNo />
+      <StoreType>1</StoreType>
+      <ChainName />
+      <SubChainName />
+      <StoreName>7 ראשל"צ משה בקר</StoreName>
+      <Address> </Address>
+      <City />
+      <ZIPCode />
+      <LastUpdateDate>01/01/0001 00:00:00</LastUpdateDate>
+      <Latitude />
+      <Longitude />
+    </Branch>
+    <Branch>
+      <ChainID>7290875100001</ChainID>
+      <SubChainID>001</SubChainID>
+      <StoreID>008</StoreID>
+      <BikoretNo />
+      <StoreType>1</StoreType>
+      <ChainName />
+      <SubChainName />
+      <StoreName>8 ראשון לציון קרית גנים</StoreName>
+      <Address> </Address>
+      <City />
+      <ZIPCode />
+      <LastUpdateDate>01/01/0001 00:00:00</LastUpdateDate>
+      <Latitude />
+      <Longitude />
+    </Branch>
+    <Branch>
+      <ChainID>7290875100001</ChainID>
+      <SubChainID>001</SubChainID>
+      <StoreID>009</StoreID>
+      <BikoretNo />
+      <StoreType>1</StoreType>
+      <ChainName />
+      <SubChainName />
+      <StoreName>9 גבעת שמואל</StoreName>
+      <Address> </Address>
+      <City />
+      <ZIPCode />
+      <LastUpdateDate>01/01/0001 00:00:00</LastUpdateDate>
+      <Latitude />
+      <Longitude />
+    </Branch>
+    <Branch>
+      <ChainID>7290875100001</ChainID>
+      <SubChainID>001</SubChainID>
+      <StoreID>010</StoreID>
+      <BikoretNo />
+      <StoreType>1</StoreType>
+      <ChainName />
+      <SubChainName />
+      <StoreName>10 תל אביב גלויות</StoreName>
+      <Address> </Address>
+      <City />
+      <ZIPCode />
+      <LastUpdateDate>01/01/0001 00:00:00</LastUpdateDate>
+      <Latitude />
+      <Longitude />
+    </Branch>
+    <Branch>
+      <ChainID>7290875100001</ChainID>
+      <SubChainID>001</SubChainID>
+      <StoreID>060</StoreID>
+      <BikoretNo />
+      <StoreType>1</StoreType>
+      <ChainName />
+      <SubChainName />
+      <StoreName>60 נס ציונה סיטי</StoreName>
+      <Address> </Address>
+      <City />
+      <ZIPCode />
+      <LastUpdateDate>01/01/0001 00:00:00</LastUpdateDate>
+      <Latitude />
+      <Longitude />
+    </Branch>
+    <Branch>
+      <ChainID>7290875100001</ChainID>
+      <SubChainID>001</SubChainID>
+      <StoreID>061</StoreID>
+      <BikoretNo />
+      <StoreType>1</StoreType>
+      <ChainName />
+      <SubChainName />
+      <StoreName>61 רמת השרון</StoreName>
+      <Address> </Address>
+      <City />
+      <ZIPCode />
+      <LastUpdateDate>01/01/0001 00:00:00</LastUpdateDate>
+      <Latitude />
+      <Longitude />
+    </Branch>
+    <Branch>
+      <ChainID>7290875100001</ChainID>
+      <SubChainID>001</SubChainID>
+      <StoreID>062</StoreID>
+      <BikoretNo />
+      <StoreType>1</StoreType>
+      <ChainName />
+      <SubChainName />
+      <StoreName>62 חולון</StoreName>
+      <Address> </Address>
+      <City />
+      <ZIPCode />
+      <LastUpdateDate>01/01/0001 00:00:00</LastUpdateDate>
+      <Latitude />
+      <Longitude />
+    </Branch>
+    <Branch>
+      <ChainID>7290875100001</ChainID>
+      <SubChainID>001</SubChainID>
+      <StoreID>090</StoreID>
+      <BikoretNo />
+      <StoreType>1</StoreType>
+      <ChainName />
+      <SubChainName />
+      <StoreName>מרכז רשת</StoreName>
+      <Address> </Address>
+      <City />
+      <ZIPCode />
+      <LastUpdateDate>01/01/0001 00:00:00</LastUpdateDate>
+      <Latitude />
+      <Longitude />
+    </Branch>
+    <Branch>
+      <ChainID>7290875100001</ChainID>
+      <SubChainID>001</SubChainID>
+      <StoreID>099</StoreID>
+      <BikoretNo />
+      <StoreType>1</StoreType>
+      <ChainName />
+      <SubChainName />
+      <StoreName>סניף השמדות</StoreName>
+      <Address> </Address>
+      <City />
+      <ZIPCode />
+      <LastUpdateDate>01/01/0001 00:00:00</LastUpdateDate>
+      <Latitude />
+      <Longitude />
+    </Branch>
+  </Branches>
+</Store>
